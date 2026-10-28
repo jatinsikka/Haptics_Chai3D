@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "obj\\Debug\\x64\\application-GLUT.obj",
+            "outputs": [
+                "obj\\Debug\\x64\\application-GLUT.cpp.obj.dt.module.json",
+                "obj\\Debug\\x64\\application-GLUT.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

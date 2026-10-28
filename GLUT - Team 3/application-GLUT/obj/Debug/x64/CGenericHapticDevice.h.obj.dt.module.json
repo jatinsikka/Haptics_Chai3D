@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "obj\\Debug\\x64\\CGenericHapticDevice.obj",
+            "outputs": [
+                "obj\\Debug\\x64\\CGenericHapticDevice.h.obj.dt.module.json",
+                "obj\\Debug\\x64\\CGenericHapticDevice.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
